@@ -2,7 +2,7 @@
 
 Bu proje, Isparta Fatih Mahallesindeki satılık evlerin fiyatlarını tahmin etmek için yapay zeka kullanmaktadır. 
 
-###Kullanılan Teknolojiler;
+### Kullanılan Teknolojiler;
 
 Python
 Pandas
