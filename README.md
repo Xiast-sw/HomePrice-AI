@@ -4,8 +4,8 @@ Bu proje, Isparta Fatih Mahallesindeki satılık evlerin fiyatlarını tahmin et
 
 ### Kullanılan Teknolojiler;
 
-Python
-Pandas
-NumPy
-scikit-learn
-Tkinter
+Python<br>
+Pandas<br>
+NumPy<br>
+scikit-learn<br>
+Tkinter<br>
