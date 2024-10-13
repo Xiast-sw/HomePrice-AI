@@ -9,3 +9,6 @@ Pandas<br>
 NumPy<br>
 scikit-learn<br>
 Tkinter<br>
+
+## Katkıda Bulunanlar
+ ***Adil Buğra AYTAR***
