@@ -12,9 +12,9 @@ Tkinter<br>
 Jupyter Notebook
 
 ### Kullanım
--Veri setini yükleyin.
--Jupyter Notebook'u çalıştırarak modeli eğitin.
--Modeli kullanarak yeni evlerin fiyatlarını tahmin edin.
+Veri setini yükleyin.<br>
+Jupyter Notebook'u çalıştırarak modeli eğitin.<br>
+Modeli kullanarak yeni evlerin fiyatlarını tahmin edin.
 
 ## Katkıda Bulunanlar
  ***Adil Buğra AYTAR***
