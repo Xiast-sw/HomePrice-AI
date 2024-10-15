@@ -16,5 +16,8 @@ Veri setini yükleyin.<br>
 Jupyter Notebook'u çalıştırarak modeli eğitin.<br>
 Modeli kullanarak yeni evlerin fiyatlarını tahmin edin.
 
-## Katkıda Bulunanlar
+### Katkıda Bulunanlar
  ***Adil Buğra AYTAR***
+
+### Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır.
