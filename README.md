@@ -11,6 +11,9 @@ scikit-learn<br>
 Tkinter<br>
 Jupyter Notebook
 
+## Yapay Zeka Modeli
+Bu projede **Multiple Linear Regression** (Çoklu Doğrusal Regresyon) modeli kullanılmıştır. Bu model, bağımsız değişkenlerin bir hedef değişken üzerindeki etkisini analiz etmek için kullanılır.
+
 ### Kullanım
 Veri setini yükleyin.<br>
 Jupyter Notebook'u çalıştırarak modeli eğitin.<br>
