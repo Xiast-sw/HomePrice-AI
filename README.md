@@ -12,7 +12,7 @@
 - Jupyter Notebook
 
 ## Artificial Intelligence Model
-
+The Multiple Linear Regression model is used in this project. This model analyzes the impact of independent variables on a target variable.
 
 ## Kullanım
 Veri setini yükleyin.<br>
