@@ -2,13 +2,13 @@
 
 "This project includes an artificial intelligence model developed to predict house prices in the Fatih neighborhood of Isparta. The model estimates prices by using various features of houses in the area."
 
-## Kullanılan Teknolojiler;
+## Technologies Used
 
-Python<br>
-Pandas<br>
-NumPy<br>
-scikit-learn<br>
-Tkinter<br>
+Python
+Pandas
+NumPy
+scikit-learn
+Tkinter
 Jupyter Notebook
 
 ## Yapay Zeka Modeli
