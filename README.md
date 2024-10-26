@@ -4,15 +4,15 @@
 
 ## Technologies Used
 
-Python
-Pandas
-NumPy
-scikit-learn
-Tkinter
-Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- scikit-learn
+- Tkinter
+- Jupyter Notebook
 
-## Yapay Zeka Modeli
-Bu projede **Multiple Linear Regression** (Çoklu Doğrusal Regresyon) modeli kullanılmıştır. Bu model, bağımsız değişkenlerin bir hedef değişken üzerindeki etkisini analiz etmek için kullanılır.
+## Artificial Intelligence Model
+
 
 ## Kullanım
 Veri setini yükleyin.<br>
