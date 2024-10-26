@@ -14,13 +14,13 @@
 ## Artificial Intelligence Model
 The Multiple Linear Regression model is used in this project. This model analyzes the impact of independent variables on a target variable.
 
-## Kullanım
-Veri setini yükleyin.<br>
-Jupyter Notebook'u çalıştırarak modeli eğitin.<br>
-Modeli kullanarak yeni evlerin fiyatlarını tahmin edin.
+## Usage
+- Load the dataset
+- Run the Jupyter Notebook to train the model
+- Use the model to predict the prices of new houses
 
-## Katkıda Bulunanlar
+## Contributors
  ***Adil Buğra AYTAR***
 
-## Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
+## License
+This project is licensed under the MIT License.
