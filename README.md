@@ -1,9 +1,7 @@
 # Home Price Prediction
-
 "This project includes an artificial intelligence model developed to predict house prices in the Fatih neighborhood of Isparta. The model estimates prices by using various features of houses in the area."
 
 ## Technologies Used
-
 - Python
 - Pandas
 - NumPy
